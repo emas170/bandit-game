@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(45deg, #98CD8D 6.25%, #ffe23d 6.25%, #ffe23d 12.50%, #c1b3db 12.50%, #c1b3db 18.75%, #e890b3 18.75%, #e890b3 25%, #9397cc 25%, #9397cc 31.25%, #c77fb9 31.25%, #c77fb9 37.50%, #7fbda7 37.50%, #7fbda7 43.75%, #a0b87b 43.75%, #a0b87b 50%, #98CD8D 50%, #98CD8D 56.25%, #ffe23d 56.25%, #ffe23d 62.50%, #c1b3db 62.50%, #c1b3db 68.75%, #e890b3 68.75%, #e890b3 75%, #9397cc 75%, #9397cc 81.25%, #c77fb9 81.25%, #c77fb9 87.50%, #7fbda7 87.50%, #7fbda7 93.75%, #a0b87b 93.75%, #a0b87b 100%);
+    background-color: #96DFE4;
     background-size: 113.14px 113.14px;
 }
 
